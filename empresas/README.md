@@ -7,3 +7,6 @@
     
 * [Stone](https://www.stone.com.br)
     * Trabalhando com Rust na área de Novos Negócios.
+
+* [SpedAUditor](https://www.spedauditor.com.br)
+    * Processamos arquivos fiscais com Rust.
